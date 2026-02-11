@@ -1,73 +1,83 @@
-<h1 align="center">Abhishek</h1>
+<div align="center">
 
-<h3 align="center">
-AI Product Developer • Full Stack Developer • Data Analyst
-</h3>
+# ABHISHEK 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Product+Developer;Full+Stack+Developer;Workflow+Automation+Builder;Next.js+%7C+React+%7C+Python+%7C+SQL" />
-</p>
+###  Full Stack Engineer | Data Analyst | AI Product Developer 
 
----
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Driven+Products;Automating+Workflows+at+Scale;Next.js+•+React+•+Python+•+SQL;Turning+Data+Into+Intelligence" />
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,mysql,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+## ⚡ TECH ARSENAL
 
-• AI Product Developer Intern building intelligent workflow automation systems  
-• Experience in React, API integrations & research automation  
-• Passionate about scalable applications & data-driven solutions  
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 PRODUCT ENGINEERING FOCUS
 
-### 🚀 AI Workflow Automation – Astrokids
-Automated website-building workflows using Next.js & SerpAPI.  
-Built AI-powered research pipelines to streamline content generation.
+- Architecting AI-powered workflow automation systems  
+- Building scalable web applications using modern frameworks  
+- Integrating APIs for intelligent data pipelines  
+- Designing performance-optimized frontend systems  
+- Converting raw data into actionable insights  
+
+---
+
+## 🚀 SIGNATURE PROJECTS
+
+### 🛰 AI Workflow Automation — Astrokids
+Engineered automated website-generation workflows using **Next.js** and **SerpAPI**.  
+Designed intelligent research pipelines to reduce manual processes and improve content scalability.
+
+---
 
 ### 🌍 Global Keyword Intelligence Platform
-SEO analytics platform built with Next.js & API integrations for multi-market keyword analysis.
-
-### 🤖 Python Research Automation Agent
-Automated research system integrating APIs for data extraction and insights generation.
+Built a multi-market SEO intelligence system using **Next.js + API integrations**  
+Enabled structured keyword analysis and insight generation.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekjeyakumar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjeyakumar&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekjeyakumar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+### 🤖 Research Automation Agent (Python)
+Developed an API-integrated research engine for automated data extraction, parsing, and insight processing.
 
 ---
 
-## 🏆 Achievements
+## 📊 ENGINEERING METRICS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekjeyakumar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekjeyakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjeyakumar&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://skillicons.dev/icons?i=webflow" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekjeyakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🌐 DIGITAL PRESENCE
+
+Portfolio → https://yourportfolio.com  
+LinkedIn → https://linkedin.com/in/yourprofile  
+
+---
+
+<div align="center">
+
+"Engineering Intelligent Systems. Not Just Writing Code."
+
+</div>
